@@ -1,7 +1,7 @@
-osmItalia (OpenStreetMap tools for Italian user)
+osmItalia
 =========
 
-Strumenti ed utilities per gli utenti Italiani di OSM. 
+Tools for OpenStreetMap Italia users - Strumenti ed utilities per gli utenti Italiani di OSM. 
 
 * script di import dei dati italiani
 * ricostruzione e verifica dei limiti amministrativi (con mantenimento della completezza con i dati storici)
