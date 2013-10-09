@@ -1,0 +1,17 @@
+#Toponimi critici per testare il sistema
+
+#== Errori di geocoding ==
+
+Via Cavour, roma #confonde cavour con roma
+Via Innocenzo X, roma #esiste ma metter prima innocenza X
+Via Garibaldi, Pisa #ne da due, uno alla maggiola (fuori comune) vanno tolte quelle più piccole per evitare i priblemi ai confini
+
+#== problemi di db ==
+Piazza Garibaldi, Pisa
+Piazza delle Vettovaglie, Pisa
+
+
+
+#== Risolti ==  
+Via Salerno, Roma #Risolto passando da ^10 a ^5
+
