@@ -2,11 +2,12 @@
 
 #== Errori di geocoding ==
 
-Via Cavour, roma #confonde cavour con roma
-Via Innocenzo X, roma #esiste ma mette prima Via Innocenzo III, roma
-Via Garibaldi, Pisa #ne da due, uno alla maggiola (fuori comune) vanno tolte quelle più piccole per evitare i problemi ai confini
+Via Cavour, Roma #confonde cavour con roma
+Via Innocenzo X, Roma #esiste ma mette prima Via Innocenzo III, roma
+Via Garibaldi, Pisa #da priorità ad un via garibaldii in un comune limitrofo (loc. maggiola); vanno verificati in fase di extract i problemi sui bordi comunali (e tolte le strade con intersezione minima)
 
-#== problemi di db ==
+
+#== problemi di db (lo script di generazione sembra saltare i poligoni) ==
 Piazza Garibaldi, Pisa
 Piazza delle Vettovaglie, Pisa
 
